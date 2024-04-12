@@ -1,6 +1,7 @@
 ## Olá, eu sou Luiz Filipe! Estudante de programação e tecnologia! 👋👨‍💻
 
 Sou estudante da área de tecnologia, com foco em programação e design voltado para desenvolvimento web. Estou motivado a aprender e contribuir com meus conhecimentos e habilidades no mercado de trabalho. Acredito firmemente no impacto positivo que a tecnologia tem em nossa qualidade de vida. Meu foco é trabalhar em equipe, trazendo soluções criativas para desafios utilizando a tecnologia como ferramenta-chave.
+<br>
 </br>
 </br>
 - Redes Sociais:
